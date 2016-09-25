@@ -5,3 +5,8 @@ properly synced.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 When I have to be stingy with my datacard? Idk.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork - When I want to contribute to somebody else's project but I don't have permissions to make changes to his/her work.
+Clone - When I want to transfer a repo from GitHub to my local computer 
+Branch - When I want to add a new feature, try something new, or experiment.
