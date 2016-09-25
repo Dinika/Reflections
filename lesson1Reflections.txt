@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Since we knew that the bug was introduced when we changed or tweaked some of our code we were positive that we introduced an error that wasn't present in the original version. So, it only made sense to check the differences between the two files. Maybe, we added or deleted something incorrect. Once these differences were pointed out by the fc or diff commands, it was just a matter of going through them to find the bug. This way we didn't have to go through 100s of lines of code. Instead, we analysed a few of them and found out the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could always see why I code produced a certain result before and why it's producing a different result now. 
+    I wouldn't have to save several files based on when and why I updated the code in them.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Cons - I can always forget to commit after I've made some change(s), like I usually do. 
+Pros - I won't have senseless versions of the project. Less Clutter.
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   Because the code that makes up a project can be strewn across several files. All these files need to be updated and saved in order for the project to work correctly. 
+
+How can you use the commands git log and git diff to view the history of files?
+I can find the id and date of the commit using git logs and then find out the details of the commit by using the diff command
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    1) I wouldn't have to think twice before changing my code (say, to add a new feature) by adding and/or deleting lines. I'd know I can always get back to a previous version without any hassle.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	1) I want to share the CERN_Dashboard code with my IT team at CERN.
+    Fill in your answer here
