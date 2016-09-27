@@ -16,3 +16,6 @@ We can do a git diff and resolve the conflicts.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Maybe I'll share my local repo with my collaborates through dropbox/google drive/one drive or the likes of these. I guess the fact that I wouldn't have to learn and worry about all these commands and concepts would be a plus, but I'm not sure that'd be enough for me to not use Git and GitHub. I'll probably end up with way too many zip files of different versions of my project on my laptop and cloud account, it'll be different to keep track of all the changes manually now that I know the GitHub way, and I can't imagine what a nightmare merging the changes would be.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I'd want to get my changes reviewed before I merge them into the master.
